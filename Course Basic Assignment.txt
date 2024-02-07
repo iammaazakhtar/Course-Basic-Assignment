@@ -1,0 +1,18 @@
+﻿ASSIGNMENT:3 
+Q1 What is HTML? 
+Ans- HTML stands for hyper text markup language. In web development HTML  plays a very important role. HTML language used as a structure of our web and  create Content on the web. 
+In simple words it gives the whole skeleton or whole shape to the web page.
+Q2 What is CSS? 
+Ans- CSS stands for cascading style sheets. Style sheet language used to  describe the looks and formatting of a document written in HTML. 
+In simple words CSS is provide better style and better UI for the user and how  the look and feel of web is. 
+Q3 Why did JavaScript come into the picture? 
+Ans- Now a days JavaScript is one of the most popular programming language it comes into the picture for:- 
+→JavaScript provide interactivity to the webpage 
+→ It add dynamic content 
+→Users feel very connected to the web page 
+→Through java script we add logics in web page 
+→and we add some more other functionality in it 
+Q4 History of JavaScript and ECMAScript. Explain in your words. 
+Ans- History- In 1995 JavaScript was invented by Brendon Eich. JavaScript was developed for Netscape 2 and In 1997 it becomes the ECMA-262 standard.  After some tine it known as LiveScript. In starting it suffered from security  issues and notable performance but developers had no alternatives. 
+Later In 2008 JavaScript had a break throw the Creation of Google open source  Chrome V8, a high-performance JavaScript engine provided a crucial break  throw for java script. Rayan Dahi released an open source, cross platform  environment called Nodes.java. It provide a way to run a JavaScript code from outside a browser . 
+Now a days JavaScript is one of the most popular programming language it is  used by many major companies like twitter, Netflix, Facebook, etc
